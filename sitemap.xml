@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.tf2maps.net/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://blog.tf2maps.net/</loc>
+</url>
+<url>
+<loc>https://blog.tf2maps.net/contest-roadmap-for-2024/</loc>
+<lastmod>2024-01-17T14:34:58-07:00</lastmod>
+<image:image>
+<image:loc>https://blog.tf2maps.net/media\posts\4/51476.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.tf2maps.net/new-jersey-once-again-on-fire/</loc>
+<lastmod>2024-01-17T14:32:04-07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.tf2maps.net/staff-meeting-on-the-20th/</loc>
+<lastmod>2024-01-17T14:25:45-07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.tf2maps.net/trying-out-this-blog-post-feature/</loc>
+<lastmod>2024-01-17T13:27:44-07:00</lastmod>
+<image:image>
+<image:loc>https://blog.tf2maps.net/media\posts\1/Screenshot_2-2xl.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

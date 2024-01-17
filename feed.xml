@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TF2Maps Blog</title>
+    <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
+    <link href="https://blog.tf2maps.net" />
+    <updated>2024-01-17T14:34:58-07:00</updated>
+    <author>
+        <name>Zeus</name>
+    </author>
+    <id>https://blog.tf2maps.net</id>
+
+    <entry>
+        <title>Contest Roadmap for 2024</title>
+        <author>
+            <name>Zeus</name>
+        </author>
+        <link href="https://blog.tf2maps.net/contest-roadmap-for-2024/"/>
+        <id>https://blog.tf2maps.net/contest-roadmap-for-2024/</id>
+            <category term="Events"/>
+            <category term="Announcement"/>
+
+        <updated>2024-01-17T14:34:58-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.tf2maps.net/media/posts/4/51476.jpg" alt="" />
+                    Hello everyone! I am pleased to announce a whole bunch of events this year! The next major contest is coming up soon, but we are&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.tf2maps.net/media/posts/4/51476.jpg" alt="" />
+                <p><span style="font-weight: 400;">Hello everyone! I am pleased to announce a whole bunch of events this year! The next major contest is coming up soon, but we are also preparing this year’s 72hr Jam, another TFConnect collaboration, the unofficial April Fools celebration, as well as the next season of Microcontests! Check our </span><strong>Site Calendar</strong><span style="font-weight: 400;"> for the exact dates!</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>New Jersey once again on fire</title>
+        <author>
+            <name>Zeus</name>
+        </author>
+        <link href="https://blog.tf2maps.net/new-jersey-once-again-on-fire/"/>
+        <id>https://blog.tf2maps.net/new-jersey-once-again-on-fire/</id>
+            <category term="Internal"/>
+            <category term="IT"/>
+
+        <updated>2024-01-17T14:32:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                    You may have noticed the forums acting up again. Vultr, our server provider, is once again fighting (and failing) its battle against its own infrastructure.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">You may have noticed the forums acting up again. Vultr, our server provider, is once again fighting (and failing) its battle against its own infrastructure. We will let you know once everything is working again.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Staff Meeting on the 20th!</title>
+        <author>
+            <name>Zeus</name>
+        </author>
+        <link href="https://blog.tf2maps.net/staff-meeting-on-the-20th/"/>
+        <id>https://blog.tf2maps.net/staff-meeting-on-the-20th/</id>
+            <category term="Internal"/>
+            <category term="Announcement"/>
+
+        <updated>2024-01-17T14:25:45-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello mappers! We are starting 2024 with a team meet-up discussing our plans for the year. There are various projects coming up, some public, some&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Hello mappers! We are starting 2024 with a team meet-up discussing our plans for the year. There are various projects coming up, some public, some not. You may have already seen Nesman’s improvements to our map queue (</span><strong>bot.tf2maps.net</strong><span style="font-weight: 400;">), which has been completely rewritten, as well as the discussions a few weeks ago about the </span><strong>Featured Maps</strong><span style="font-weight: 400;"> event. There is a lot to talk about, but if there is anything that is especially close to your heart, let us know so we can add it to the agenda. We can’t promise we will talk about </span><i><span style="font-weight: 400;">everything</span></i><span style="font-weight: 400;">, but we will at the very least consider it. Cheers!</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Trying out this “blog post” feature</title>
+        <author>
+            <name>Zeus</name>
+        </author>
+        <link href="https://blog.tf2maps.net/trying-out-this-blog-post-feature/"/>
+        <id>https://blog.tf2maps.net/trying-out-this-blog-post-feature/</id>
+            <category term="Internal"/>
+            <category term="Announcement"/>
+
+        <updated>2024-01-17T13:27:44-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.tf2maps.net/media/posts/1/Screenshot_2-2xl.png" alt="" />
+                    Ever since the TF2 Team rediscovered this ancient technology, we have been itching to try it out as well. Hello everyone! This is now the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.tf2maps.net/media/posts/1/Screenshot_2-2xl.png" alt="" />
+                <p><span style="font-weight: 400;">Ever since the TF2 Team rediscovered this </span><strong>ancient technology</strong><span style="font-weight: 400;">, we have been itching to try it out as well. Hello everyone! This is now the TF2Maps Blog, where we will try to share whatever is currently happening behind the scenes. Cheers!</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
