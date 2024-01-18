@@ -12,7 +12,7 @@
 @font-face { font-family: 'Fira Mono'; src: url('../font/FiraMono-Medium.ttf'); font-weight: 500 }
 @font-face { font-family: 'Fira Mono'; src: url('../font/FiraMono-Bold.ttf'); font-weight: 700 }
 
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/* Normalize CSS */
 html {
    line-height: 1.15;
    -webkit-text-size-adjust: 100%;
@@ -202,7 +202,6 @@ template {
    --border-radius: 4px;
 }
 
-
 /*** Typography ***/
 h1, h2, h3, h4, h5, h6 {
    font-family: 'Titillium Web', sans-serif;
@@ -257,13 +256,13 @@ body {
    grid-gap: 1rem;
 }
 
-header {
+body > header {
    grid-area: header;
    background-color: var(--bg-content);
    height: 100px;
    padding: var(--spacing-small) 0px;
 }
-header .gutter {
+body > header .gutter {
    display: flex;
    height: 100%;
    flex-direction: row;
@@ -271,13 +270,13 @@ header .gutter {
    justify-content: space-between;
 }
 
-header #logo {
+body > header #logo {
    display: inline-block;
 }
-header #logo > img {
+body > header #logo > img {
    transform: rotate(-2.5deg);
 }
-header nav > ul.menu {
+body > header nav > ul.menu {
    list-style-type: none;
    display: flex;
    flex-direction: row;
@@ -286,11 +285,11 @@ header nav > ul.menu {
    align-items: center;
    gap: var(--spacing-large);
 }
-header nav > ul.menu > li >  a {
+body > header nav > ul.menu > li >  a {
    text-decoration: none;
    transition: color 150ms;
 }
-header nav > ul.menu > li > a:hover {
+body > header nav > ul.menu > li > a:hover {
    color: var(--brand-primary)
 }
 
@@ -336,26 +335,26 @@ main article > h2 > a:hover {
    color: var(--brand-primary)
 }
 
-main article > .metadata {
+main article .metadata {
    display: flex;
    justify-content: space-between;
    flex-direction: row;
    align-items: center;
 }
-main article > .metadata > .author {
+main article .metadata > .author {
    display: inline-grid;
    grid-template-areas:
       "avatar name"
       "avatar date";
    column-gap: var(--spacing-small);
 }
-main article > .metadata > .author > img {
+main article .metadata > .author > img{
    grid-area: avatar;
    border-radius: 100%;
    max-width: 32px;
    max-height: 32px;
 }
-main article > .metadata > .author > a {
+main article .metadata > .author > a {
    grid-area: name;
    text-decoration: none;
    text-transform: initial !important;
@@ -364,15 +363,15 @@ main article > .metadata > .author > a {
    font-size: 14px !important;
    transition: color 150ms;
 }
-main article > .metadata > .author > a:hover {
+main article .metadata > .author > a:hover, {
    color: var(--brand-primary) !important;
 }
-main article > .metadata > .author > time {
+main article .metadata > .author > time {
    grid-area: date;
    line-height: initial !important;
 }
 
-main article > .metadata > .tags > .tag {
+main article .metadata > .tags > .tag {
    color: var(--brand-primary);
    text-decoration: none;
    font-size: 12px;
@@ -381,13 +380,29 @@ main article > .metadata > .tags > .tag {
    letter-spacing: .5px;
    background: #432A17;
    padding: 2.5px 7px;
-   border-radius: 4px;
+   border-radius: var(--border-radius);
 }
 
-main article > .continue-reading {
+main article .link-action {
    color: var(--brand-primary) !important;
    text-decoration: none;
 }
+
+main article #post-navigation {
+   display: grid;
+   grid-template-columns: auto auto;
+   grid-template-areas:
+      "prev next";
+}
+main article #post-navigation [rel="prev"] {
+   grid-area: prev;
+}
+main article #post-navigation [rel="next"] {
+   grid-area: next;
+   text-align: right;
+}
+
+
 
 footer {
    grid-area: footer;
@@ -418,9 +433,9 @@ img {
 .text-label,
 header nav > ul.menu > li > a,
 footer span#copyright,
-main article > .metadata > .author > time,
-main article > .metadata > .author > a,
-main article > .continue-reading {
+main article .metadata > .author > time,
+main article .metadata > .author > a,
+main article .link-action {
     font-size: var(--font-size-label);
     line-height: 1.6;
     font-weight: 600;
@@ -429,7 +444,81 @@ main article > .continue-reading {
     color: var(--text-secondary);
 }
 
+/* 404 Page */
+.error-card {
+   background-color: var(--bg-content);
+   border-radius: var(--border-radius);
 
+   width: 454px;
+
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+
+   box-sizing: border-box;
+   padding: var(--spacing-2x-large);
+   padding-bottom: var(--spacing-medium);
+
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 0;
+}
+
+.error-card img#logo {
+   position: absolute;
+   left: 50%;
+   transform: translate(-50%, calc(-100% - 10px)) rotate(-2.5deg);
+}
+
+.error-card .header {
+   margin: 0;
+   text-transform: uppercase;
+}
+
+.error-card .subheader {
+   color: var(--text-secondary);
+   margin: 0;
+   font-size: var(--font-size-body);
+}
+
+.error-card .illustration {
+   max-width: 325px;
+   margin: 0;
+}
+
+.error-card .action-button {
+   width: 80%;
+   margin: 0;
+   background-color: var(--brand-primary);
+   font-size: var(--font-size-label);
+   line-height: 1.6;
+   font-weight: 600;
+   text-transform: uppercase;
+   letter-spacing: 0;
+   color: var(--text-primary);
+   margin-bottom: var(--spacing-large);
+   padding: 10px;
+   border-radius: var(--border-radius);
+   text-decoration: none;
+   transition: background-color 150ms;
+}
+
+.error-card .action-button:hover {
+   background-color: var(--brand-primary-hover);
+}
+
+.error-card footer {
+   font-size: 12px;
+   line-height: 1.6;
+   font-weight: 600;
+   text-transform: uppercase;
+   letter-spacing: 0.5px;
+   color: var(--text-teritary);
+   margin-top: var(--sl-spacing-medium);
+}
 
 
 
