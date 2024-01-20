@@ -350,6 +350,9 @@ body > header .toggle-button-bar {
    body > header nav {
       width: 100%;
    }
+   main {
+      width: 100vw;
+   }
 }
 
 
