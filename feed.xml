@@ -3,82 +3,62 @@
     <title>TF2Maps Blog</title>
     <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
     <link href="https://blog.tf2maps.net" />
-    <updated>2024-01-18T11:32:59-07:00</updated>
+    <updated>2024-01-19T18:17:17-07:00</updated>
     <author>
         <name>Zeus</name>
     </author>
     <id>https://blog.tf2maps.net</id>
 
     <entry>
-        <title>Contest Roadmap for 2024</title>
+        <title>Welcome to the future</title>
         <author>
             <name>Zeus</name>
         </author>
-        <link href="https://blog.tf2maps.net/contest-roadmap-for-2024/"/>
-        <id>https://blog.tf2maps.net/contest-roadmap-for-2024/</id>
-            <category term="Events"/>
+        <link href="https://blog.tf2maps.net/welcome-to-the-future/"/>
+        <id>https://blog.tf2maps.net/welcome-to-the-future/</id>
             <category term="Announcement"/>
 
-        <updated>2024-01-17T14:34:58-07:00</updated>
+        <updated>2024-01-19T18:05:37-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.tf2maps.net/media/posts/4/51476.jpg" alt="" />
-                    Hello everyone! I am pleased to announce a whole bunch of events this year! The next major contest is coming up soon, but we are&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.tf2maps.net/media/posts/4/51476.jpg" alt="" />
-                <p><span style="font-weight: 400;">Hello everyone! I am pleased to announce a whole bunch of events this year! The next major contest is coming up soon, but we are also preparing this year’s 72hr Jam, another TFConnect collaboration, the unofficial April Fools celebration, as well as the next season of Microcontests! Check our </span><strong>Site Calendar</strong><span style="font-weight: 400;"> for the exact dates!</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Jersey once again on fire</title>
-        <author>
-            <name>Zeus</name>
-        </author>
-        <link href="https://blog.tf2maps.net/new-jersey-once-again-on-fire/"/>
-        <id>https://blog.tf2maps.net/new-jersey-once-again-on-fire/</id>
-            <category term="Internal"/>
-            <category term="IT"/>
+                    <p><span style="font-weight: 400;">Hello, everyone! The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
 
-        <updated>2024-01-17T14:32:04-07:00</updated>
-            <summary>
-                <![CDATA[
-                    You may have noticed the forums acting up again. Vultr, our server provider, is once again fighting (and failing) its battle against its own infrastructure.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><span style="font-weight: 400;">You may have noticed the forums acting up again. Vultr, our server provider, is once again fighting (and failing) its battle against its own infrastructure. We will let you know once everything is working again.</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Staff Meeting on the 20th!</title>
-        <author>
-            <name>Zeus</name>
-        </author>
-        <link href="https://blog.tf2maps.net/staff-meeting-on-the-20th/"/>
-        <id>https://blog.tf2maps.net/staff-meeting-on-the-20th/</id>
-            <category term="Internal"/>
-            <category term="Announcement"/>
+                <p><span style="font-weight: 400;">Hello, everyone! The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
 
-        <updated>2024-01-17T14:25:45-07:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello mappers! We are starting 2024 with a team meet-up discussing our plans for the year. There are various projects coming up, some public, some&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 400;">Hello mappers! We are starting 2024 with a team meet-up discussing our plans for the year. There are various projects coming up, some public, some not. You may have already seen Nesman’s improvements to our map queue (</span><strong>bot.tf2maps.net</strong><span style="font-weight: 400;">), which has been completely rewritten, as well as the discussions a few weeks ago about the </span><strong>Featured Maps</strong><span style="font-weight: 400;"> event. There is a lot to talk about, but if there is anything that is especially close to your heart, let us know so we can add it to the agenda. We can’t promise we will talk about </span><i><span style="font-weight: 400;">everything</span></i><span style="font-weight: 400;">, but we will at the very least consider it. Cheers!</span></p>
+<h2>Why A Blog?</h2>
+<p><span style="font-weight: 400;">For those of you who have not lived through the Forum Age of the internet and are confused what this even is or why we are doing this now: Blogs are long-form semi-regular publications targeted at a specific or general audience.</span></p>
+<p><span style="font-weight: 400;">They have more persistence than a Discord announcement, can be longer and more content-filled than a Twitter post, and are more accessible to non-members than a Forum thread.</span></p>
+<p><span style="font-weight: 400;">This blog is extremely light on resources as it is hosted on Github, making it accessible even when we have hosting issues that make the forums inaccessable. </span><span style="font-weight: 400;">In fact, the (lack of) forum activity TF2Maps gets these days is one motivation for this test run.</span></p>
+<p><span style="font-weight: 400;">If this feature stays, you may expect some of the following types of posts on here:</span></p>
+<ul>
+<li aria-level="1"><strong>Official Announcements: </strong>A<span style="font-weight: 400;">nything you would currently see as an announcement post on Discord or on the site frontpage will be posted here as well, possibly with additional context.</span></li>
+<li aria-level="1"><strong>Public Service Announcements: </strong><span style="font-weight: 400;">Occasionally, something comes up in the team chat that we think everyone might want to know, but it isn’t worth a full announcement, or it might be too complex for a single Discord message. In fact, one of those came up quite recently.</span>
+<ul>
+<li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Behind the scenes</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">:</strong><span style="font-weight: 400;"> What is Staff doing right now? Whether it is 14bit’s discarded contest ideas, Nesman’s firefighting heroics, or Zeus’ bedroom decoration ideas, we might share some additional things Staff has discussed that you may not have heard of. This could include both official projects as well as things from our lives, especially if it will affect staff availability.</span></li>
+</ul>
+</li>
+<li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Looking forward</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">: </strong><span style="font-weight: 400;">Future contests, events, predictions for TF2 Updates or whatever else is coming up will be announced here in advance, as soon as we have an idea ourselves. There’s a lot of people asking when the next Major Contest will be, and even if we don’t have a set date yet, it might make sense to at least announce the vague time frame we have in mind.</span></li>
+<li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Looking back</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">:</strong><span style="font-weight: 400;"> TF2Maps is almost as old as TF2 itself. This community has a rich and eventful history. Expect “</span><i style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">today, 10 years ago</i><span style="font-weight: 400;">” types of posts in which we remember some of the more interesting changes, contests, and perhaps sources of drama that happened here. Some of us have been around for a long time, so why not gather around the campfire and share some tales?</span></li>
+</ul>
+<hr>
+<h2>Your Turn!</h2>
+<p><span style="font-weight: 400;">Finally, there is one more type of post we would very much like to encourage: </span><strong>Yours!</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer </span><strong>you, esteemed TF2Maps.net community member</strong><span style="font-weight: 400;">, a platform. We have not fully finalized rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see.</span></p>
+<p><span style="font-weight: 400;">[Banner of Soldier pointing into the camera, Uncle Sam recruitment poster style]</span></p>
+<p class="callout callout__info"><span style="font-weight: 400;">You can subscribe to this Blog via RSS </span><a href="https://blog.tf2maps.net/feed.json" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a></p>
+<hr>
+<h2>That's All Folks</h2>
+<p><span style="font-weight: 400;">All this said,</span><strong> talk to us!</strong><span style="font-weight: 400;"> If you have a post idea, or criticism about the whole blog post thing, reach out via @ModMail or send us a message on the forums!</span></p>
+<p><span style="font-weight: 400;">Now, back to Hammer. This layout won’t fix itself.</span></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>TF2M Blog Theme Tester</title>
+        <title>Theme Tester</title>
         <author>
             <name>Zeus</name>
         </author>
@@ -87,7 +67,7 @@
             <category term="Internal"/>
             <category term="Announcement"/>
 
-        <updated>2024-01-18T11:32:59-07:00</updated>
+        <updated>2024-01-19T18:17:17-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.tf2maps.net/media/posts/1/Screenshot_2-2xl.png" alt="" />
@@ -131,11 +111,28 @@
 <p>- Le Nemsan</p>
 </blockquote>
 <h6>Horizontal Rule</h6>
-<hr>
-<h6 id="mcetoc_1hketgfgp1t9">Address</h6>
-<address>10400 Northeast Fourth Street. Floor 14</address><address>Bellevue, WA 98004</address>
+<hr><address> </address>
 <h6 id="mcetoc_1hketgfgp1ta">Inline Code</h6>
 <address><code>$ systemctl restart httpd</code></address><address> </address>
+<h6>Block Code</h6>
+<pre><code class="language-json">{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "cloudformation:Describe*",
+                "cloudformation:EstimateTemplateCost",
+                "cloudformation:Get*",
+                "cloudformation:List*",
+                "cloudformation:ValidateTemplate",
+                "cloudformation:Detect*"
+            ],
+            "Resource": "*"
+        }
+    ]
+}    </code></pre>
+<p> </p>
 <h6 id="mcetoc_1hketgfgp1tb">Gallery</h6>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://blog.tf2maps.net/media/posts/1/gallery/Screenshot_2-2xl.png" data-size="1600x900"><img loading="lazy" src="https://blog.tf2maps.net/media/posts/1/gallery/Screenshot_2-2xl-thumbnail.png" alt="" width="720" height="405"></a></figure>
@@ -145,7 +142,7 @@
 <h6 id="mcetoc_1hketgfgp1tc">Embed Image</h6>
 <h6 id="mcetoc_1hketgfgp1td"><figure class="post__image"><img loading="lazy"  src="https://blog.tf2maps.net/media/posts/1/51476.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/1/responsive/51476-xs.jpg 300w ,https://blog.tf2maps.net/media/posts/1/responsive/51476-sm.jpg 480w ,https://blog.tf2maps.net/media/posts/1/responsive/51476-md.jpg 749w ,https://blog.tf2maps.net/media/posts/1/responsive/51476-xl.jpg 1200w"  alt="" width="880" height="400"></figure></h6>
 <h6 id="mcetoc_1hketgfgp1te">Embed Video</h6>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/788_2ZiRyrk?t=836s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="794" height="444" style="width: 595px; height: 332px;" src="https://www.youtube.com/embed/788_2ZiRyrk?t=836s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h6 id="mcetoc_1hketgfgp1tf">Table</h6>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -157,15 +154,33 @@
 </tr>
 <tr>
 <td style="width: 24.9644%;">1</td>
-<td style="width: 24.9644%;">Bob</td>
+<td style="width: 24.9644%;"><em>Alice</em></td>
 <td style="width: 24.9644%;">52</td>
 <td style="width: 24.9644%;">Junior</td>
 </tr>
 <tr>
 <td style="width: 24.9644%;">2</td>
-<td style="width: 24.9644%;">Alice</td>
-<td style="width: 24.9644%;">22</td>
-<td style="width: 24.9644%;"> </td>
+<td style="width: 24.9644%;"><span style="text-decoration: underline;">Bob</span></td>
+<td style="width: 24.9644%;"><span style="text-decoration: line-through;">22</span></td>
+<td style="width: 24.9644%;">Senior</td>
+</tr>
+<tr>
+<td style="width: 24.9644%;">3</td>
+<td style="width: 24.9644%;"><strong>Charlie</strong></td>
+<td style="width: 24.9644%;">33</td>
+<td style="width: 24.9644%;">😇</td>
+</tr>
+<tr>
+<td style="width: 24.9644%;">4</td>
+<td style="width: 24.9644%;">Daphne</td>
+<td style="width: 24.9644%;">15</td>
+<td style="width: 24.9644%;">Colonel</td>
+</tr>
+<tr>
+<td style="width: 24.9644%;">5</td>
+<td style="width: 24.9644%;">Eric</td>
+<td style="width: 24.9644%;">88</td>
+<td style="width: 24.9644%;">Private</td>
 </tr>
 </tbody>
 </table>
@@ -175,6 +190,10 @@
 <p class="align-right">Right</p>
 <h6 id="mcetoc_1hketgfgp1th">Emoji</h6>
 <p>😀😎😋🤬</p>
+<p> </p>
+<p> </p>
+<h6 id="mcetoc_1hketgfgp1t9">Address</h6>
+<address>10400 Northeast Fourth Street. Floor 14</address><address>Bellevue, WA 98004</address>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
