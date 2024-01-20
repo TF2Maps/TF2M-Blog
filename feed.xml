@@ -3,7 +3,7 @@
     <title>TF2Maps Blog</title>
     <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
     <link href="https://blog.tf2maps.net" />
-    <updated>2024-01-20T01:36:16-07:00</updated>
+    <updated>2024-01-20T13:02:56-07:00</updated>
     <author>
         <name>Zeus</name>
     </author>
@@ -18,15 +18,17 @@
         <id>https://blog.tf2maps.net/introducing-official-the-tf2maps-blog/</id>
             <category term="Announcement"/>
 
-        <updated>2024-01-20T01:36:16-07:00</updated>
+        <updated>2024-01-20T13:02:56-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.tf2maps.net/media/posts/5/banner1_wip01.png" alt="" />
                     <p><span style="font-weight: 400;">Hello, everyone! The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://blog.tf2maps.net/media/posts/5/banner1_wip01.png" alt="" />
                 <p><span style="font-weight: 400;">Hello, everyone! The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
 
 <h2>Why A Blog?</h2>
