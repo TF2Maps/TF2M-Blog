@@ -3,7 +3,7 @@
     <title>TF2Maps Blog</title>
     <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
     <link href="https://blog.tf2maps.net" />
-    <updated>2024-01-20T13:02:56-07:00</updated>
+    <updated>2024-01-21T01:34:27-07:00</updated>
     <author>
         <name>Zeus</name>
     </author>
@@ -18,21 +18,23 @@
         <id>https://blog.tf2maps.net/introducing-official-the-tf2maps-blog/</id>
             <category term="Announcement"/>
 
-        <updated>2024-01-20T13:02:56-07:00</updated>
+        <updated>2024-01-21T01:34:27-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.tf2maps.net/media/posts/5/banner1_wip01.png" alt="" />
-                    <p><span style="font-weight: 400;">Hello, everyone! The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
+                    <p><span style="font-weight: 400;">Hello, everyone! </span></p>
+<p><span style="font-weight: 400;">The TF2Maps Blog is a new, experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blog.tf2maps.net/media/posts/5/banner1_wip01.png" alt="" />
-                <p><span style="font-weight: 400;">Hello, everyone! The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
+                <p><span style="font-weight: 400;">Hello, everyone! </span></p>
+<p><span style="font-weight: 400;">The TF2Maps Blog is a new, experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
 
 <h2>Why A Blog?</h2>
-<p><span style="font-weight: 400;">For those of you who have not lived through the Forum Age of the internet and are confused what this even is or why we are doing this now: Blogs are long-form semi-regular publications targeted at a specific or general audience.</span></p>
+<p><span style="font-weight: 400;">For those of you who have not lived through the Forum Age of the internet and are confused what this even is or why we are doing this now: Blogs are long-form semi-regular publications targeted at a specific audience.</span></p>
 <p><span style="font-weight: 400;">They have more persistence than a Discord announcement, can be longer and more content-filled than a Twitter post, and are more accessible to non-members than a Forum thread.</span></p>
 <p><span style="font-weight: 400;">This blog is extremely light on resources as it is hosted on Github, making it accessible even when we have hosting issues that make the forums inaccessable. </span><span style="font-weight: 400;">In fact, the (lack of) forum activity TF2Maps gets these days is one motivation for this test run.</span></p>
 <p><span style="font-weight: 400;">If this feature stays, you may expect some of the following types of posts on here:</span></p>
@@ -49,9 +51,9 @@
 <hr>
 <h2>Your Turn!</h2>
 <p><span style="font-weight: 400;">Finally, there is one more type of post we would very much like to encourage: </span><strong>Yours!</strong><span style="font-weight: 400;"> </span></p>
-<p><span style="font-weight: 400;">If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer </span><strong>you, esteemed TF2Maps.net community member</strong><span style="font-weight: 400;">, a platform. We have not fully finalized rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see.</span></p>
+<p><span style="font-weight: 400;">If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer </span><strong>you, esteemed TF2Maps.net community member</strong><span style="font-weight: 400;">, a platform. We have not finalized the rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see.</span></p>
 <p><span style="font-weight: 400;">[Banner of Soldier pointing into the camera, Uncle Sam recruitment poster style]</span></p>
-<p class="callout callout__info"><span style="font-weight: 400;">You can subscribe to this Blog via RSS </span><a href="https://blog.tf2maps.net/feed.json" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a></p>
+<p class="callout callout__info"><span style="font-weight: 400;">You can subscribe to this Blog via RSS </span><a href="https://blog.tf2maps.net/feed.json" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a> or if you need it in xml format: <a href="https://blog.tf2maps.net/feed.xml">here </a></p>
 <hr>
 <h2>That's All Folks</h2>
 <p><span style="font-weight: 400;">All this said,</span><strong> talk to us!</strong><span style="font-weight: 400;"> If you have a post idea, or criticism about the whole blog post thing, reach out via @ModMail or send us a message on the forums!</span></p>
