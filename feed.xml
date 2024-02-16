@@ -3,7 +3,7 @@
     <title>TF2Maps Blog</title>
     <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
     <link href="https://blog.tf2maps.net" />
-    <updated>2024-02-15T18:41:37-07:00</updated>
+    <updated>2024-02-16T15:24:43-07:00</updated>
     <author>
         <name>Zeus</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://blog.tf2maps.net/introducing-official-the-tf2maps-blog/</id>
             <category term="Announcement"/>
 
-        <updated>2024-02-15T18:41:37-07:00</updated>
+        <updated>2024-02-16T15:24:43-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.tf2maps.net/media/posts/5/blog_001b.jpg" alt="" />
                     <p><span style="font-weight: 400;">Hello, everyone! </span></p>
-<p>The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</p>
+<p>The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</p>
 
                 ]]>
             </summary>
@@ -31,7 +31,7 @@
             <![CDATA[
                     <img src="https://blog.tf2maps.net/media/posts/5/blog_001b.jpg" alt="" />
                 <p><span style="font-weight: 400;">Hello, everyone! </span></p>
-<p>The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</p>
+<p>The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</p>
 
 <h2>Why A Blog?</h2>
 <p>For those of you who have not lived through the Forum Age of the internet and are confused what this even is or why we are doing this now: Blogs are long-form semi-regular publications targeted at a specific or general audience. </p>
@@ -42,7 +42,7 @@
 <li aria-level="1"><strong>Official Announcements: </strong>Anything you would currently see as an announcement post on Discord or on the site frontpage will be posted here as well, possibly with additional context.</li>
 <li aria-level="1"><strong>Public Service Announcements: </strong>Occasionally, something comes up in the team chat that we think everyone might want to know, but it isn’t worth a full announcement, or it might be too complex for a single Discord message. In fact, one of those came up quite recently.
 <ul>
-<li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Behind the scenes</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">:</strong><span style="font-weight: 400;"> What is Staff doing right now? Whether it is 14bit’s discarded contest ideas, Nesman’s firefighting heroics, or Zeus’ bedroom decoration ideas, we might share some additional things Staff has discussed that you may not have heard of. This could include both official projects as well as things from our lives, especially if it will affect staff availability.</span></li>
+<li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Behind the scenes</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">:</strong><span style="font-weight: 400;"> What is Staff doing right now? "Whether it’s showing off Pdan's many discarded contest banners, Nesman’s firefighting heroics, or Zeus’ bedroom decoration ideas, we might share some additional things Staff has discussed that you may not have heard of. This could include both official projects as well as things from our lives, especially if it will affect staff availability.</span></li>
 </ul>
 </li>
 <li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Looking forward</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">: </strong><span style="font-weight: 400;">Future contests, events, predictions for TF2 Updates or whatever else is coming up will be announced here in advance, as soon as we have an idea ourselves. There’s a lot of people asking when the next Major Contest will be, and even if we don’t have a set date yet, it might make sense to at least announce the vague time frame we have in mind.</span></li>
@@ -51,12 +51,12 @@
 <hr>
 <h2>Your Turn!</h2>
 <p><span style="font-weight: 400;">Finally, there is one more type of post we would very much like to encourage: </span><strong>Yours!</strong><span style="font-weight: 400;"> </span></p>
-<p>If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer <span class="hljs-strong">**you, esteemed TF2Maps.net community member**</span>, a platform. We have not fully finalized rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see. </p>
+<p>If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer <em><span class="hljs-strong">you, esteemed TF2Maps.net community member</span></em>, a platform. We have not fully finalized rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see. </p>
 <p class="callout callout__info"><span style="font-weight: 400;">You can subscribe to this Blog via RSS </span><a href="https://blog.tf2maps.net/feed.json" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a> or if you need it in xml format: <a href="https://blog.tf2maps.net/feed.xml">here </a></p>
 <hr>
 <h2>That's All Folks</h2>
-<p>All this said, <strong><span class="hljs-strong">talk to us!</span></strong> If you have a post idea, or criticism about the whole blog post thing, reach out via @ModMail or send us a message on the forums! </p>
-<p><span style="font-weight: 400;">Now, back to Hammer. This layout won’t fix itself.</span></p>
+<p>All this said, <strong><span class="hljs-strong">talk to us!</span></strong> If you have a post idea, or criticism about the whole blog post thing, reach out via @ModMail or <a href="https://tf2maps.net/threads/introducing-the-official-tf2maps-blog.51741/">discuss this article</a> on the forums!! </p>
+<p><span style="font-weight: 400;">Now, back to Hammer. This layout won’t fix itself<a style="color: unset !important; font-decoration: unset !important;" href="https://i.imgur.com/RtsQT7G.jpeg">. </a></span></p>
             ]]>
         </content>
     </entry>
