@@ -3,7 +3,7 @@
     <title>TF2Maps Blog</title>
     <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
     <link href="https://blog.tf2maps.net" />
-    <updated>2024-01-21T01:34:27-07:00</updated>
+    <updated>2024-02-15T18:41:37-07:00</updated>
     <author>
         <name>Zeus</name>
     </author>
@@ -18,29 +18,29 @@
         <id>https://blog.tf2maps.net/introducing-official-the-tf2maps-blog/</id>
             <category term="Announcement"/>
 
-        <updated>2024-01-21T01:34:27-07:00</updated>
+        <updated>2024-02-15T18:41:37-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.tf2maps.net/media/posts/5/banner1_wip01.png" alt="" />
+                        <img src="https://blog.tf2maps.net/media/posts/5/blog_001b.jpg" alt="" />
                     <p><span style="font-weight: 400;">Hello, everyone! </span></p>
-<p><span style="font-weight: 400;">The TF2Maps Blog is a new, experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
+<p>The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.tf2maps.net/media/posts/5/banner1_wip01.png" alt="" />
+                    <img src="https://blog.tf2maps.net/media/posts/5/blog_001b.jpg" alt="" />
                 <p><span style="font-weight: 400;">Hello, everyone! </span></p>
-<p><span style="font-weight: 400;">The TF2Maps Blog is a new, experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</span></p>
+<p>The TF2Maps Blog is a new, slightly experimental project which we would like to use to improve our interaction with the community. We (the TF2M staff team) want to share more about what is going on, what we are working on, our thoughts on the community as a whole, and whatever else we can think of.</p>
 
 <h2>Why A Blog?</h2>
-<p><span style="font-weight: 400;">For those of you who have not lived through the Forum Age of the internet and are confused what this even is or why we are doing this now: Blogs are long-form semi-regular publications targeted at a specific audience.</span></p>
-<p><span style="font-weight: 400;">They have more persistence than a Discord announcement, can be longer and more content-filled than a Twitter post, and are more accessible to non-members than a Forum thread.</span></p>
-<p><span style="font-weight: 400;">This blog is extremely light on resources as it is hosted on Github, making it accessible even when we have hosting issues that make the forums inaccessable. </span><span style="font-weight: 400;">In fact, the (lack of) forum activity TF2Maps gets these days is one motivation for this test run.</span></p>
+<p>For those of you who have not lived through the Forum Age of the internet and are confused what this even is or why we are doing this now: Blogs are long-form semi-regular publications targeted at a specific or general audience. </p>
+<p>They have more persistence than a Discord announcement, can be longer and more content-filled than a Twitter post, and are more accessible to non-members than a Forum thread. </p>
+<p>This blog is extremely light on resources as it is hosted on Github, making it accessible even when we have hosting issues that make the forums inaccessable. In fact, the (lack of) forum activity TF2Maps gets these days is one motivation for this test run. </p>
 <p><span style="font-weight: 400;">If this feature stays, you may expect some of the following types of posts on here:</span></p>
 <ul>
-<li aria-level="1"><strong>Official Announcements: </strong>A<span style="font-weight: 400;">nything you would currently see as an announcement post on Discord or on the site frontpage will be posted here as well, possibly with additional context.</span></li>
-<li aria-level="1"><strong>Public Service Announcements: </strong><span style="font-weight: 400;">Occasionally, something comes up in the team chat that we think everyone might want to know, but it isn’t worth a full announcement, or it might be too complex for a single Discord message. In fact, one of those came up quite recently.</span>
+<li aria-level="1"><strong>Official Announcements: </strong>Anything you would currently see as an announcement post on Discord or on the site frontpage will be posted here as well, possibly with additional context.</li>
+<li aria-level="1"><strong>Public Service Announcements: </strong>Occasionally, something comes up in the team chat that we think everyone might want to know, but it isn’t worth a full announcement, or it might be too complex for a single Discord message. In fact, one of those came up quite recently.
 <ul>
 <li aria-level="1"><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Behind the scenes</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">:</strong><span style="font-weight: 400;"> What is Staff doing right now? Whether it is 14bit’s discarded contest ideas, Nesman’s firefighting heroics, or Zeus’ bedroom decoration ideas, we might share some additional things Staff has discussed that you may not have heard of. This could include both official projects as well as things from our lives, especially if it will affect staff availability.</span></li>
 </ul>
@@ -51,12 +51,11 @@
 <hr>
 <h2>Your Turn!</h2>
 <p><span style="font-weight: 400;">Finally, there is one more type of post we would very much like to encourage: </span><strong>Yours!</strong><span style="font-weight: 400;"> </span></p>
-<p><span style="font-weight: 400;">If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer </span><strong>you, esteemed TF2Maps.net community member</strong><span style="font-weight: 400;">, a platform. We have not finalized the rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see.</span></p>
-<p><span style="font-weight: 400;">[Banner of Soldier pointing into the camera, Uncle Sam recruitment poster style]</span></p>
+<p>If there is anything interesting and vaguely TF2Maps-related happening to you, or if there are any projects you would like to talk about in detail, we want to offer <span class="hljs-strong">**you, esteemed TF2Maps.net community member**</span>, a platform. We have not fully finalized rules for which posts we are definitely going to allow or disallow, so expect more developments on this as we figure it out ourselves. We might also approach certain community members if we think they have published something we think more people should see. </p>
 <p class="callout callout__info"><span style="font-weight: 400;">You can subscribe to this Blog via RSS </span><a href="https://blog.tf2maps.net/feed.json" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a> or if you need it in xml format: <a href="https://blog.tf2maps.net/feed.xml">here </a></p>
 <hr>
 <h2>That's All Folks</h2>
-<p><span style="font-weight: 400;">All this said,</span><strong> talk to us!</strong><span style="font-weight: 400;"> If you have a post idea, or criticism about the whole blog post thing, reach out via @ModMail or send us a message on the forums!</span></p>
+<p>All this said, <strong><span class="hljs-strong">talk to us!</span></strong> If you have a post idea, or criticism about the whole blog post thing, reach out via @ModMail or send us a message on the forums! </p>
 <p><span style="font-weight: 400;">Now, back to Hammer. This layout won’t fix itself.</span></p>
             ]]>
         </content>
