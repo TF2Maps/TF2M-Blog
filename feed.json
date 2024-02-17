@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://blog.tf2maps.net/major-contest-18-stack-the-deck/",
+            "url": "https://blog.tf2maps.net/major-contest-18-stack-the-deck/",
+            "title": "Major Contest #18: Stack The Deck",
+            "summary": "<p><span class=\"hljs-strong\">Pick a card, any card!</span></p>\n<p>Watch your free time disappear with TF2maps.net's 18th Major Contest, <a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\">Stack the Deck</a><a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\"></a><a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\"></a>!</p>\n",
+            "content_html": "<p><span class=\"hljs-strong\">Pick a card, any card!</span></p>\n<p>Watch your free time disappear with TF2maps.net's 18th Major Contest, <a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\">Stack the Deck</a><a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\"></a><a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\"></a>!</p>\n\n<p>How to participate:</p>\n<ul>\n<li>Choose any 4 cards (requirements) from the <em>Gameplay Deck</em></li>\n<li>Choose any 2 cards from the <em>Detailing Deck</em></li>\n<li>Combine your crazy collectable cards with your magical map-making abilities to make the best TF2 map you can!</li>\n</ul>\n<p>Amaze your friends!  Astound random strangers!  Disappoint Merasmus with subpar slight-of-hand! And don't forget, every great act needs a magic word! Yours for this contest is: \"Asymmetrical,\" as in, \"Your map must be Asymmetrical.\" How magical-yet-oddly specific!</p>\n<p>So what are you waiting for? Grab your lovely assistants (up to three collaborators) to join you on stage (in Hammer), and put on a once-in-a-lifetime show (map) to wow the audience (judges + public voting)!</p>\n<p>You can find the Contest thread: <a href=\"https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/\">https://tf2maps.net/threads/major-contest-18-stack-the-deck.51757/</a></p>",
+            "image": "https://blog.tf2maps.net/media/posts/6/2024_tf2m_contest57_banner.png",
+            "author": {
+                "name": "Zeus"
+            },
+            "tags": [
+                   "Contest",
+                   "Announcement"
+            ],
+            "date_published": "2024-02-17T15:56:23-07:00",
+            "date_modified": "2024-02-17T15:56:37-07:00"
+        },
+        {
             "id": "https://blog.tf2maps.net/introducing-official-the-tf2maps-blog/",
             "url": "https://blog.tf2maps.net/introducing-official-the-tf2maps-blog/",
             "title": "Introducing the official TF2Maps blog",
