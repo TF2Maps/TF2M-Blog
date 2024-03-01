@@ -3,12 +3,107 @@
     <title>TF2Maps Blog</title>
     <link href="https://blog.tf2maps.net/feed.xml" rel="self" />
     <link href="https://blog.tf2maps.net" />
-    <updated>2024-02-17T15:56:37-07:00</updated>
+    <updated>2024-02-29T19:20:13-07:00</updated>
     <author>
         <name>Zeus</name>
     </author>
     <id>https://blog.tf2maps.net</id>
 
+    <entry>
+        <title>A Chat With Eric at Valve HQ</title>
+        <author>
+            <name>Zeus</name>
+        </author>
+        <link href="https://blog.tf2maps.net/a-chat-with-eric-at-valve-hq/"/>
+        <id>https://blog.tf2maps.net/a-chat-with-eric-at-valve-hq/</id>
+            <category term="Guest"/>
+
+        <updated>2024-02-29T19:20:13-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.tf2maps.net/media/posts/7/moregun.jpeg" alt="" />
+                    <p>On the 21st of February, 2024 I had the privilege of receiving a brief tour of Valve's headquarters in Bellevue, WA. While seeing the holy halls in which our favorite games were made was truly awe-inspiring, the real highlight of the tour was the conversation with Eric Smith, current de-facto lead developer of Team Fortress 2 and main point of contact for mappers.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.tf2maps.net/media/posts/7/moregun.jpeg" alt="" />
+                <p>On the 21st of February, 2024 I had the privilege of receiving a brief tour of Valve's headquarters in Bellevue, WA. While seeing the holy halls in which our favorite games were made was truly awe-inspiring, the real highlight of the tour was the conversation with Eric Smith, current de-facto lead developer of Team Fortress 2 and main point of contact for mappers.</p>
+
+<p>First of all, I'd like to say it was a real pleasure to be able to have a casual conversation with Eric, and his enthusiasm for TF2 shone throughout the talk.</p>
+<p>This was not so much a Q&amp;A so much as it was just a casual chat. Please temper your expectations to a reasonable level for things, and realize that development does take time, and can be hectic, so <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">anything mentioned here can always change. </span></p>
+<figure class="post__image post__image--center" ><img loading="lazy" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://blog.tf2maps.net/media/posts/7/erectinsentry.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/7/responsive/erectinsentry-xs.jpg 300w ,https://blog.tf2maps.net/media/posts/7/responsive/erectinsentry-sm.jpg 480w ,https://blog.tf2maps.net/media/posts/7/responsive/erectinsentry-md.jpg 749w ,https://blog.tf2maps.net/media/posts/7/responsive/erectinsentry-xl.jpg 1200w"  alt="" width="261" height="391">
+<figcaption >Your fearless hero, Stuffy360, with the beautiful WETA Workshop sentry gun replica.</figcaption>
+</figure>
+<p> </p>
+<hr>
+<h1>2024 TF2 Summer Update</h1>
+<figure class="post__image post__image--right" ><img loading="lazy" src="https://blog.tf2maps.net/media/posts/7/balloonicorn.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/7/responsive/balloonicorn-xs.png 300w ,https://blog.tf2maps.net/media/posts/7/responsive/balloonicorn-sm.png 480w ,https://blog.tf2maps.net/media/posts/7/responsive/balloonicorn-md.png 749w ,https://blog.tf2maps.net/media/posts/7/responsive/balloonicorn-xl.png 1200w"  alt="" width="240" height="360">
+<figcaption >Giant balloonicorn sculpture in the lobby.</figcaption>
+</figure>
+<p>In the talk I brought up the Summer 2024 update; being a map creator a<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">nd w</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">orking </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">with people who make maps, this is a question we were all interested in. </span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Eric expressed that Valve was likely to do 2024 and very interested in continuing to do community Summer updates, though they would be smaller in size compared to 2023, which had a <a href="https://wiki.teamfortress.com/wiki/Summer_2023_Update">record-breaking amount of new maps</a>. </span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">He also mention</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ed that there were a </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">number of fun things they'd like to do, but weren't necessarily actively being worked on. </span></p>
+<p> </p>
+<p> </p>
+<hr>
+<h1>Valves Map Selection Process</h1>
+<figure class="post__image post__image--left" ><img loading="lazy" src="https://blog.tf2maps.net/media/posts/7/gravityguns.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/7/responsive/gravityguns-xs.png 300w ,https://blog.tf2maps.net/media/posts/7/responsive/gravityguns-sm.png 480w ,https://blog.tf2maps.net/media/posts/7/responsive/gravityguns-md.png 749w ,https://blog.tf2maps.net/media/posts/7/responsive/gravityguns-xl.png 1200w"  alt="" width="331" height="220">
+<figcaption >The temptation to pick one up look for the nearest sawblade was almost impossible to withstand.</figcaption>
+</figure>
+<p>One of the things I brought up was the criteria maps were subjected to when chosen to be featured in an update.</p>
+<p>Eric emphasized that they look through the <em>entire workshop</em> when picking maps, and did not just pick the current "Trending" entries.</p>
+<p> </p>
+<p>Maps for already-added community gamemodes are still being considered, so we may still receive additional <a href="https://wiki.teamfortress.com/wiki/Versus_Saxton_Hale">Versus Saxton Hale</a> or <a href="https://wiki.teamfortress.com/wiki/Zombie_Infection">Zombie Invasion</a> maps.</p>
+<p>When picking maps, Valve runs internal playtests with level designers and artists as well to get their feedback on what they enjoyed. A lot of what they look for in a map is how fun it is to play, and whether or not it does something interesting to stand out.</p>
+<p> </p>
+<hr>
+<h1>64 Bit TF2 and Maintenance</h1>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://blog.tf2maps.net/media/posts/7/coolstuff.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/7/responsive/coolstuff-xs.jpg 300w ,https://blog.tf2maps.net/media/posts/7/responsive/coolstuff-sm.jpg 480w ,https://blog.tf2maps.net/media/posts/7/responsive/coolstuff-md.jpg 749w ,https://blog.tf2maps.net/media/posts/7/responsive/coolstuff-xl.jpg 1200w"  alt="" width="515" height="343">
+<figcaption >Valve has sold quite a bit of merch over the years.</figcaption>
+</figure>
+<p> </p>
+<p>Theres been a lot of hype about the new 64-bit Team Fortress 2. This effort is mostly being spearheaded by Joshie; a Steam Hardware contractor for Valve and part-time TF2 developer.</p>
+<p>This 64-bit update is intended to be more of a maintenance and forward thinking update rather than the start of any big project in itself.</p>
+<p>Eric is very excited about what the community has done and is doing, and they're always looking at feedback for improving things such as <a href="https://github.com/ValveSoftware/Source-1-Games/issues/4481">vscript</a>.</p>
+<p>I had also brought up hybrid gamemodes and he expressed interest in looking into difficulties with hard-coded entities, but it's something that needs to be balanced with time. </p>
+<p> </p>
+<hr>
+<h1>Modding Team Fortress 2</h1>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://blog.tf2maps.net/media/posts/7/deckthing.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/7/responsive/deckthing-xs.jpg 300w ,https://blog.tf2maps.net/media/posts/7/responsive/deckthing-sm.jpg 480w ,https://blog.tf2maps.net/media/posts/7/responsive/deckthing-md.jpg 749w ,https://blog.tf2maps.net/media/posts/7/responsive/deckthing-xl.jpg 1200w"  alt="" width="515" height="343">
+<figcaption >Apparently this was used to make the <span class="hljs-string"><a href="https://youtu.be/_vTsZMvjJ-A">Steam Deck Trailer</a></span>. Now it's an art piece in the lobby.</figcaption>
+</figure>
+<p> </p>
+<p>I brought up mod projects related to TF2. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Eric acknowledged that Valve had been working on better support for mods within TF2, as an alternative to outside projects that Valve may object to for intellectual property reasons or violations of the Steam Subscriber Agreement.</span></p>
+<p>Eric cited Covid as one of the major reasons work on that had slowed down but was adamant that they were working on it, even going as far as to say he was working on it yesterday (February 20th, 2024).</p>
+<p>I do not actually have an idea of what Valve’s mod-related project entails, but Eric's enthusiasm makes me optimistic. </p>
+<p> </p>
+<hr>
+<h1>Miscellaneous Tidbits about TF2 and Eric</h1>
+<p>These are just interesting bits of dialogue and general impressions and do not imply anything deeper </p>
+<ul>
+<li><span class="hljs-emphasis">Eric is really enthusiastic about TF2 and what the community has done. </span></li>
+<li><span class="hljs-emphasis">His favorite class is Pyro. He described how therapeutic it was to be torching players and helping out friendly engineers. That's right, your favorite Valve dev is a Pybro! </span></li>
+<li><span class="hljs-emphasis">His favorite map? A tie between Goldrush and Mercenary Park. A man of taste, if you ask me. </span></li>
+<li><span class="hljs-emphasis">Eric's favorite TF2 update was Scream Fortress VI, which added sd_</span>doomsday<span class="hljs-emphasis">_event and the bumper car minigames. Unsurprisingly, the team had a lot of fun making that one. </span></li>
+<li><span class="hljs-emphasis">As the conversation shifted, I asked a bit about what else he does at Valve. Some of his routine involves reading and responding to emails, Programming work on the game, and doing a bit of work on Steam Deck; specifically the ratings side and working with contractors on that. In the past, he worked on games such as Half-Life: Alyx and, unsurprisingly, TF2! I Was shocked to find out he worked on the original code for the Payload gamemode! </span></li>
+<li><span class="hljs-emphasis">Eric is very aware of all the "lost" TF2 media such as the comics. Comic #7 was mentioned, but as far as I can tell, they are not currently working on it. </span></li>
+<li><span class="hljs-emphasis">Eric does read all his emails and tries to get back with people as much as he can. If you have concrete ideas for changes or improvements, consider sending him or the TF Team an email. Eric reads any email that makes it through their admittedly rather aggressive spam filter, even if he doesn't always answer. </span></li>
+<li><span class="hljs-emphasis">Nothing big for TF2 seems planned, mostly maintenance and holiday-sized updates. </span></li>
+<li><span class="hljs-emphasis">People seem to come and go on the TF2 team, but it is generally pretty small these days. </span></li>
+</ul>
+<p> </p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://blog.tf2maps.net/media/posts/7/goldenthrone-2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.tf2maps.net/media/posts/7/responsive/goldenthrone-2-xs.jpg 300w ,https://blog.tf2maps.net/media/posts/7/responsive/goldenthrone-2-sm.jpg 480w ,https://blog.tf2maps.net/media/posts/7/responsive/goldenthrone-2-md.jpg 749w ,https://blog.tf2maps.net/media/posts/7/responsive/goldenthrone-2-xl.jpg 1200w"  alt="" width="755" height="512">
+<figcaption >Unfortunately Gabe wasn't in the office that day, but his door was.</figcaption>
+</figure>
+<p> </p>
+<p><em><span style="color: #f2f2f5;"><strong>*</strong></span>All pictures in this article belong to <a href="https://tf2maps.net/members/stiffy360.15104/">Stuffy360</a>.</em></p>
+<p class="callout callout__info">Feedback? Ideas? Want to submit an article? Let us know by contacting us on the <a href="https://tf2maps.net/forums/">Forums</a> or <a href="https://discord.com/invite/tf2maps">Discord</a>!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Major Contest #18: Stack The Deck</title>
         <author>
