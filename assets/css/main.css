@@ -819,20 +819,24 @@ article.post img:has(+ figcaption) {
 .post__image--full  {}
 
 @media (max-width: 780px) {
-   .post__image--left,
-   .post__image--right,
-   .post__image--center {
+   .post__image--left:not(.not_responsive),
+   .post__image--right:not(.not_responsive),
+   .post__image--center:not(.not_responsive) {
       float:none;
       width: 100%;
       margin: 0px auto;
    }
-   .post__image--left img,
-   .post__image--right img,
-   .post__image--center img {
+   .post__image--left:not(.not_responsive) img,
+   .post__image--right:not(.not_responsive) img,
+   .post__image--center:not(.not_responsive) img {
       width: 100%;
    }
    article.post figure figcaption {
       position: inherit;
+   }
+
+   .hide_on_mobile {
+      display: none;
    }
 
 }
